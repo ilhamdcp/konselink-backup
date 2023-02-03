@@ -1,0 +1,26 @@
+.download-report {
+    margin: auto;
+    margin-top: 25px;
+    background-color: #6898bb;
+    color: white;
+    width: fit-content;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 999999px;
+}
+
+.download-report:hover {
+    cursor: pointer;
+}
+
+.date-container {
+    width: fit-content;
+    margin: auto;
+}
+
+.DatePicker {
+    margin-top: 25px;
+    background-color: white;
+}

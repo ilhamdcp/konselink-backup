@@ -1,0 +1,26 @@
+[
+  {
+    "answer_key": "test0",
+    "answer_value": 0,
+    "question_type": "SRQ",
+    "klien_id": 10
+  },
+  {
+    "answer_key": "Saya dapat merasakan apa yang orang lain rasakan",
+    "answer_value": 3,
+    "question_type": "IPIP",
+    "klien_id": 10
+  },
+  {
+    "answer_key": "test1",
+    "answer_value": 1,
+    "question_type": "SRQ",
+    "klien_id": 10
+  },
+  {
+    "answer_key": "Saya menyukai keteraturan",
+    "answer_value": 2,
+    "question_type": "IPIP",
+    "klien_id": 10
+  }
+]

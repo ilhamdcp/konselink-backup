@@ -1,0 +1,15 @@
+{
+  "scheduleId": 10,
+  "diagnosis": "test",
+  "diagnosisCode": 1,
+  "physicalHealthHistory": "test",
+  "medicalConsumption": "test",
+  "suicideRisk": "test",
+  "selfHarmRisk": "test",
+  "othersHarmRisk": "test",
+  "assessment": "test",
+  "consultationPurpose": "test",
+  "treatmentPlan": "test",
+  "meetings": 1,
+  "notes": "test"
+}

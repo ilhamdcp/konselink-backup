@@ -1,0 +1,14 @@
+.RejectButton {
+    float: right;
+    background-color: #c40404;
+    border-radius: 9999px;
+    padding: 10px 25px 10px 25px;
+    color: white;
+    cursor: pointer;
+    margin: 15px;
+}
+
+.button-image {
+    border-radius: 15px;
+    margin-right: 15px;
+}

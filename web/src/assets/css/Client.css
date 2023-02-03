@@ -1,0 +1,33 @@
+.User {
+    background-color: rgb(236, 236, 236);
+    height: 100vh;
+}
+
+.user-name {
+    color: #6898bb;
+}
+
+.client-data {
+    margin-top: 15px;
+    color: grey;
+    margin-bottom: 0px;
+}
+
+.page-nav {
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+    display: flex;
+}
+
+.page-nav-button {
+    cursor: pointer;
+    color: #6898bb;
+    margin: 25px;
+}
+
+.page-nav-button-disabled {
+    cursor: pointer;
+    color: gray;
+    margin: 25px; 
+}

@@ -1,0 +1,12 @@
+.Loader {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+}
+
+.loader-item {
+    vertical-align: middle;   
+}

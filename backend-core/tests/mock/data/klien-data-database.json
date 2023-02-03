@@ -1,0 +1,63 @@
+{
+  "klienData": {
+    "address":"Jakarta",
+    "college_data":"tes",
+    "current_education":"S1",
+    "effort_done":"tes",
+    "elementary_data":"SD 12/rawamangun/2004/2010;SD 13/cipete/2004/2012",
+    "gender":"L",
+    "has_consulted":true,
+    "junior_data":"tes",
+    "kindergarten_data":"tes",
+    "phone_number":"364344646",
+    "problem":"tes",
+    "religion":"Islam",
+    "senior_data":"SMA 12/klender/2013/2016",
+    "birth_place":"Jakarta",
+    "birth_day":1,
+    "birth_month":10,
+    "birth_year":2014,
+    "name":"Ilham",
+    "user_id":10,
+    "complaint":"tes",
+    "solution":"tes",
+    "year_consulted":2015,
+    "month_consulted":1,
+    "place_consulted":"jakarta",
+    "has_display_picture":true,
+    "is_verified":true
+  },
+  "klienParentsData": [
+    {
+      "address":"Jakarta",
+      "age":45,
+      "education":"S1",
+      "name":"tes",
+      "occupation":"manager",
+      "religion":"Protestan",
+      "tribe":"Jawa",
+      "user_id":10,
+      "type":"F"
+    },
+    {
+      "address":"res",
+      "age":45,
+      "education":"S1",
+      "name":"Dina",
+      "occupation":"Project manager",
+      "religion":"Islam",
+      "tribe":"Bengkulu",
+      "user_id":10,
+      "type":"M"
+    }
+  ],
+  "klienSiblingsData": {
+    "sibling_number":1,
+    "age":20,
+    "education":"S1",
+    "gender":"L",
+    "name":"Ilham",
+    "user_id":10,
+    "occupation":"test"
+  }
+}

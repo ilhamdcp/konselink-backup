@@ -1,0 +1,11 @@
+{
+  "Extraversion": ["Saya menjadi pusat perhatian setiap ada acara berkumpul", "Saya merupakan orang yang tidak banyak berbicara",
+    "Saya senang berbicara dengan banyak orang di suatu acara berkumpul", "Saya cenderung menyendiri saat berkumpul"],
+  "Agreeableness": ["Saya dapat merasakan emosi orang lain", "Saya tidak begitu tertarik pada masalah orang lain",
+    "Saya dapat merasakan apa yang orang lain rasakan", "Saya kurang tertarik pada orang lain"],
+  "Conscientiousness": ["Setelah diberikan tugas saya segera menyelesaikannya", "Saya sering lupa untuk mengembalikan barang-barang kembali pada tempatnya",
+    "Saya menyukai keteraturan", "Saya orang yang berantakan"],
+  "Neuroticism": ["Suasana hati saya seringkali berubah", "Saya orang yang santai", "Saya mudah marah", "Saya jarang merasa murung"],
+  "Openness/Intellect/Imagination": ["Saya memiliki imajinasi yang jelas", "Saya tidak tertarik pada ide-ide abstrak",
+    "Saya memiliki kesulitan untuk memahami ide-ide abstrak", "Saya tidak suka berimajinasi"]
+}

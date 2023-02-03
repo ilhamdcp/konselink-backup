@@ -1,0 +1,10 @@
+{
+  "SRQ": [{
+    "answerKey": "test",
+    "answerValue": 1
+  }],
+  "IPIP": [{
+    "answerKey": "test",
+    "answerValue": 2
+  }]
+}

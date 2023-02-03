@@ -1,0 +1,12 @@
+{
+  "session" : {
+    "sso_ui_konselink": "testing",
+    "sso_ui_konselink_info": {
+      "ldap_cn": "testing",
+      "kd_org": "01.00.12.01",
+      "peran_user": "mahasiswa",
+      "nama": "testing",
+      "npm": "1234567890"
+    }
+  }
+}

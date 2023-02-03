@@ -1,0 +1,52 @@
+.user-item-card {
+    width: 50%;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.user-picture, .user-data {
+    margin-right: 25px;
+}
+
+.user-picture {
+    text-align: center;
+}
+
+.user-picture, .user-action {
+    width: 25%
+}
+
+.user-data {
+    width: 50%;
+}
+
+.user-action {
+    width: 50%;
+    float: right;
+}
+
+@media only screen and (max-width: 768px) {
+    .user-item-card {
+        width: 80%;
+        display: block;
+    }
+
+    .user-action, .user-data {
+        width: auto;
+        float: none;
+    }
+
+    .user-data {
+        margin: auto;
+    }
+
+    .user-action {
+        margin: auto;
+        width: fit-content;
+    }
+ }

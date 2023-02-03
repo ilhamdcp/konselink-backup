@@ -1,0 +1,6 @@
+{
+  "positive": ["Tertarik pada sesuatu", "Gembira", "Kuat", "Bersemangat", "Bangga", "Waspada", "Terinspirasi",
+    "Bertekad", "Memberi perhatian", "Aktif"],
+  "negative": ["Tertekan", "Kecewa", "Bersalah", "Takut", "Bermusuhan", "Mudah tersinggung", "Malu", "Gugup",
+    "Gelisah", "Kuatir"]
+}
